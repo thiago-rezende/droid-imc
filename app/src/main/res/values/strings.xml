@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Index of Corporal Mass</string>
+    <string name="btn_check">Check</string>
+    <string name="txt_weight">Kg</string>
+    <string name="txt_height">M</string>
+    <string name="in_hint">0.0</string>
+    <string name="msg_invalid_input">Invalid Input!</string>
+    <string name="result_message_0">Thinness Grade III</string>
+    <string name="result_message_1">Thinness Grade II</string>
+    <string name="result_message_2">Thinness Grade I</string>
+    <string name="result_message_3">Eutrophy (healthy)</string>
+    <string name="result_message_4">Pre-obesity</string>
+    <string name="result_message_5">Moderate Obesity (Grade I)</string>
+    <string name="result_message_6">Severe Obesity (Grade II)</string>
+    <string name="result_message_7">Very Severe Obesity (Grade III)</string>
+    <string name="result_message_error">Unknown Range</string>
+</resources>
